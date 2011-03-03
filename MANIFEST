@@ -1,0 +1,15 @@
+Build.PL
+lib/R/YapRI/Base.pm
+lib/R/YapRI/Block.pm
+lib/R/YapRI/Data/Matrix.pm
+lib/R/YapRI/Graph/Simple.pm
+lib/R/YapRI/Interpreter/Perl.pm
+MANIFEST			This list of files
+README
+t/base.t
+t/block.t
+t/data_matrix.t
+t/graph_simple.t
+t/interpreter_perl.t
+Makefile.PL
+META.yml
